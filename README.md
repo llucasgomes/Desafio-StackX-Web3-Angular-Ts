@@ -10,7 +10,7 @@
 
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Pagina](https://desafio-stack-x-web3-react-ts.vercel.app/)
+- [Pagina](https://desafio-stack-x-web3-angular-ts.vercel.app/)
 
 ## 🔖&nbsp; Sobre
 
