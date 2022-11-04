@@ -1,5 +1,5 @@
-<h1 align="center">React JS + TS</h1>
-<h3 align="center">1º Desafio Web 3 - Stack X</h3>
+<h1 align="center">Angular JS + TS + SaaS</h1>
+<h3 align="center">2º Desafio Web 3 - Stack X</h3>
 
 <p align="center">
   <img src="https://github.com/llucasgomes/Desafio-StackX-Web3-Angular-Ts/blob/main/src/assets/images/tela.png" alt="Imagem de tela do projeto"/>
