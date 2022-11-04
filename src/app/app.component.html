@@ -1,0 +1,14 @@
+<app-header></app-header>
+
+<app-main [selected]="selected" ></app-main>
+
+<footer ngClass="container_footer" >
+    
+    <!-- 1º Iremos passar fazer for para interar com o tamanho de lista de idiomas -->
+    <!-- 2º E logo apos iremos passar como propriedade o item da lista para o botao -->
+    <!-- 3º pai ira receber um props (event) para o pai -->
+    <app-botao *ngFor="let item of flags" [flags]="item"  
+    (language)="onChangeLanguage($event)" 
+    ></app-botao>
+       
+</footer>
