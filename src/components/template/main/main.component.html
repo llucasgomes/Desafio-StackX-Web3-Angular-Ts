@@ -2,22 +2,11 @@
 <section ngClass="container_main">
 <h2 ngClass="texto">{{selected}}</h2>
 <div ngClass="container_skills">
-    <ul>
-        <li>Javascript</li>
-        <li>React</li>
-        <li>Vue Js</li>
-        <li>Tailwind CSS</li>
+    <ul >
+        <li *ngFor="let item of tecnologias">{{item}}</li>
+        
     </ul>
-    <ul>
-        <li>Styled Components</li>
-        <li>Saas</li>
-        <li>Node</li>
-        <li>TypeScript</li>
-    </ul>
-    <ul>
-        <li>Angular</li>
-        <li>Java</li>
-    </ul>
+    
 </div>
 
 </section>

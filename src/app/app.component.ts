@@ -34,6 +34,19 @@ export class AppComponent {
     },
   ];
 
+  tecnologias = [
+    "Javascript",
+    "React",
+    "Vue js",
+    "Tailwind CSS",
+    "Styled Components",
+    "Saas",
+    "Node",
+    "TypeScript",
+    "Angular",
+    "Java",
+  ];
+
   //Valor inicial da linguagem
   selected = this.language[0].pt;
 
